@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginScreen</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="buttonText">Login</string>
+    <string name="loginTextView">Please Log In…</string>
+    <string name="errorMsg">Invalid Login Credentials,&#160; </string>
+    <string name="attempts">&#160;attempts left!</string>
+</resources>
